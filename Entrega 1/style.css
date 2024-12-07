@@ -1,0 +1,122 @@
+
+header{
+    background-color: #8c52ff;
+    font-family: "Open Sans", sans-serif;
+    height: auto;
+    width: auto;
+    padding: 10px;
+}
+li a{
+    text-decoration: none;
+}
+
+#listalink{
+    display: inline-block;
+    background-color: #e0d0ff;
+    font-size: 25px;
+    text-align: center;
+    width: 250px;
+    height: 40px;
+    padding: 2px;
+    margin-left: 150px;
+    border-radius: 50px;
+
+}
+#logonav{
+    height: 100px;
+    width: 100px;
+}
+
+#loultimo{
+    color: #4e269f;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    display: inline-block;
+    font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 150px;
+}
+
+.box1{
+    border:#8c52ff, 5px, solid;
+    padding: 3px;
+    margin-top: 20px;
+    width: 500px;
+    height: 520px;
+    text-wrap: wrap;
+    
+}
+#imgultimo{
+    height: 250px;
+    width: 400px;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+#ultimotitulo{
+    font-family: "Open Sans", sans-serif;
+    color: black;
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: auto;
+}
+#ultimotext{
+    color: #8c52ff;
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-wrap: wrap;
+
+}
+.presentacion{
+    font-family: "Open Sans", sans-serif;
+    display: block;
+    width: 1600px;
+    margin-left: 580px;
+    margin-right:580px;
+    margin-top: -540px;
+    text-wrap: wrap;
+
+}
+#titulopresentacion{
+    color: #4e269f;
+    font-weight: bolder;
+    font-size: 40px;
+    text-align: center;
+}
+#textopresentacion{
+    font-size: 18px;
+    font-weight: normal;
+    text-align: justify;
+}
+footer{
+    background-color: #8c52ff;
+    color: white;
+    font-family: "Open Sans", sans-serif;
+    height: 200px;
+    width: auto;
+    padding: 10px;
+}
+
+footer img{
+    height: 50px;
+    width: 50px;
+
+}
+
+#redesSociales{
+    font-size: 35px;
+    margin-right: 10px;
+}
+
+#logoTwitter{
+    margin-left: 220px;
+}
