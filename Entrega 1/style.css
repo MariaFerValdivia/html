@@ -7,6 +7,7 @@
 }
 header {
     background-color: #8c52ff;
+    color: #4e269f;
     font-family: "Open Sans", sans-serif;
     width: 100%;
     height: 150px;
@@ -21,30 +22,42 @@ header {
     align-items: center;
     justify-content: space-between;
     justify-items: center;
+    text-decoration: none;
 }
+
 nav li{
     background-color: #e0d0ff;
-    font-family: "Open Sans", sans-serif; 
+    font-family: "Open Sans", sans-serif;
     padding: 10px 10px;
-    margin: 5.10px;
-    display: flex;
+    margin: 10px;
     text-decoration: none;
+    color: #4e269f;
     list-style: none;
-    text-wrap: wrap;
     text-align: center;
+    margin-left: 70px;
     font-size: 25px;
     line-height: 40px;
-    width: 150px;
-    border-radius: 40px;
+    width: 250px;
+    border-radius: 20px;
     box-shadow: #4e269f 4px 4px 4px 4px;
 }
 .logonav{
-    margin-right: 50%;
-    height: 200px;
-    width: 200px;
+    height: 150px;
+    width: 150px;
+    margin-left: 20px;
 }
 
-
+.circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-image: url('images/circulo.png');
+    margin-left: -50px;
+    margin-top: 20px;
+    background-size: cover;
+    position: absolute;
+  }
+  
 //* Aquí comienza el body *//
 
 body{
